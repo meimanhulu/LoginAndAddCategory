@@ -8,7 +8,7 @@ Buat juga scenario test fitur Login dan Add Category yang sudah pernah dipelajar
 
 Notes: Push project ke github dengan repository baru. Buatkan video running automation upload ke youtube, tambahkan link youtube ke README.md Tambahkan juga link google sheet ScenarioTest ke README.md. Kumpulkan dalam bentuk link github-nya saja.
 
-# link Google Sheet ScenarioTest
+# link Google Sheet 
 https://docs.google.com/spreadsheets/d/1KKqkJwAAM2n7jMLUz8wQXk-GXDNKpI8bNZd1dLMmCyM/edit?usp=sharing
 
 # link Youtube
